@@ -1,75 +1,21 @@
-<!DOCTYPE html>
-<html>
- <script>
-function linkedin() {
-   window.open("https://www.linkedin.com/in/raju-shingadiya-963807b9/", '_blank').focus();
-}
-function github() {
-   window.open("https://github.com/rajumark", '_blank').focus();
-}
-function twitter() {
-   window.open("https://twitter.com/infixraju", '_blank').focus();
-}
-function call() {
-   window.open("tel:6353321951", '_blank').focus();
-}
-function mail() {
-   window.open("mailto:raju348636@gmail.com", '_blank').focus();
-}
-</script>
- 
-  <style type="text/css">
-* {margin: 0; padding: 0;}
-#container {height: 100%; width:100%; font-size: 0;}
-#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left {width: 20%;  }
- .block {
-  display: block;
-  width: 100%;
-  border: 1%;
- border-color: white;
-  background-color: #000000;
-  padding: 40px 0px;
-  font-size: 30px;
-  cursor: pointer;
-  text-align: center;
-   color:white;
-  
-}
-</style>
-</head>
-<body>
-<div id="container">
-    <div id="left">  <button onclick="call()" type="button" class="block">Call</button></div>
-      <div id="left">  <button onclick="mail()" type="button" class="block">Mail</button></div>
-    <div id="left">  <button onclick="linkedin()" type="button" class="block">LinkedIn</button></div>
-   <div id="left">  <button onclick="github()" type="button" class="block">Github</button></div>
-    <div id="left">  <button onclick="twitter()" type="button" class="block">Twitter</button></div>
-   
-    
-</div>
-  <div class=frame>
-   <img src="page%201.jpg" style="width:100%;"  />
-</div>
- <div class=frame>
-   <img src="page%202.jpg"  style="width:100%;" />
-</div>
-  <div class=frame>
-   <img src="page%203.jpg"  style="width:100%;" />
-</div>
-   <div class=frame>
-   <img src="page%204.jpg"  style="width:100%;" />
-</div>
- <div id="container">
-    <div id="left">  <button onclick="call()" type="button" class="block">Call</button></div>
-      <div id="left">  <button onclick="mail()" type="button" class="block">Mail</button></div>
-    <div id="left">  <button onclick="linkedin()" type="button" class="block">LinkedIn</button></div>
-   <div id="left">  <button onclick="github()" type="button" class="block">Github</button></div>
-    <div id="left">  <button onclick="twitter()" type="button" class="block">Twitter</button></div>
-   
-    
-</div>
-</body>
- 
+<h1 align="center">Hi 👋, I'm Raju Shingadiya</h1>
+<h3 align="center">A passionate android developer from India</h3>
 
-</html>
+- 👨‍💻 All of my projects are available at [https://rajumark.github.io/](https://rajumark.github.io/)
+
+- 💬 Ask me about **Android,Kotlin and Anything**
+
+- 📫 How to reach me **raju348636@gmail.com**
+
+- 📄 Know about my experiences [https://rajumark.github.io/](https://rajumark.github.io/)
+
+- ⚡ Fun fact **addicted by freedom of Kotlin**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/infixraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infixraju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raju shingadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju shingadiya" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
