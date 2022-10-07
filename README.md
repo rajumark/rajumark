@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact **addicted by freedom of Kotlin**
 
+## Blogs
+I do `Android` and `Kotlin` blogging at <br>
+
+<a href="https://kotlinfan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-Fan-303030?style=for-the-badge&logo=android" alt="Hashnode"></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/infixraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infixraju" height="30" width="40" /></a>
