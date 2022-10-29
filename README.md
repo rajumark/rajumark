@@ -28,5 +28,5 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajumark&layout=compact&theme=light)
 
-<a href="https://github.com/rajumark/github-readme-activity-graph"><img alt="Raju Shingadiya Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajumark&&theme=white" /></a>
+[![Raju Shingadiya activity graph](https://activity-graph.herokuapp.com/graph?username=rajumark&bg_color=ffffff&color=000000&line=878787&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
