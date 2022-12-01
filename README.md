@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://rajumark.github.io/](https://rajumark.github.io/)
 
-- ⚡ Fun fact **addicted by freedom of Kotlin**
+- ⚡ Fun fact **Addicted by freedom of Kotlin**
 
 ## Blogs
 I do `Android` and `Kotlin` blogging at <br>
