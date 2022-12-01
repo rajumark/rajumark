@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raju Shingadiya</h1>
+<h1 align="center">Raju Shingadiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://rajumark.github.io/](https://rajumark.github.io/)
@@ -19,8 +19,8 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/infixraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infixraju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raju shingadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju shingadiya" height="30" width="40" /></a>
+<a href="https://twitter.com/infixraju" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="infixraju" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/raju shingadiya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="raju shingadiya" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
