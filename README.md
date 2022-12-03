@@ -1,3 +1,4 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=rajumark)
 <h1 align="center">Raju Shingadiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
@@ -29,7 +30,4 @@ I do `Android` and `Kotlin` blogging at <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajumark&layout=compact&theme=light)
 
 
-
-## Visitor count(Refresh page it will increase count)
-<img src="https://profile-counter.glitch.me/rajumark/count.svg" />
-
+ 
