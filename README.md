@@ -28,5 +28,8 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajumark&layout=compact&theme=light)
 
-[![Raju Shingadiya activity graph](https://activity-graph.herokuapp.com/graph?username=rajumark&bg_color=ffffff&color=000000&line=878787&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## Visitor count(Refresh page it will increase count)
+<img src="https://profile-counter.glitch.me/rajumark/count.svg" />
 
