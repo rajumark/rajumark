@@ -1,6 +1,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajumark)
-<h1 align="center">Raju Shingadiya</h1>
-<h3 align="center">A passionate android developer from India</h3>
+
+<!---<h1 align="center">Raju Shingadiya</h1>--->
+<!---<h3 align="center">A passionate android developer from India</h3>--->
+
+<img src="https://github.com/rajumark/rajumark/blob/main/1.jpg"/>
+
 
 - 👨‍💻 All of my projects are available at [https://rajumark.github.io/](https://rajumark.github.io/)
 
