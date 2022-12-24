@@ -5,16 +5,14 @@
 
 <img src="https://github.com/rajumark/rajumark/blob/main/1.jpg"/>
 
+- 🧵 My Apps [PlayStore](https://play.google.com/store/apps/dev?id=6544606657560330324)
 
-- 👨‍💻 All of my projects are available at [https://rajumark.github.io/](https://rajumark.github.io/)
+- 👨‍💻 My Resume [View PDF](https://rajumark.github.io/)
 
-- 💬 Ask me about **Android,Kotlin and Anything**
+- 📫 Mail Me [Send](mailto:raju348636@gmail.com)
 
-- 📫 How to reach me **raju348636@gmail.com**
+- 📄 Projects [Repositories](https://github.com/rajumark)
 
-- 📄 Know about my experiences [https://rajumark.github.io/](https://rajumark.github.io/)
-
-- ⚡ Fun fact **Addicted by freedom of Kotlin**
 
 ## Blogs
 I do `Android` and `Kotlin` blogging at <br>
