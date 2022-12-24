@@ -19,7 +19,8 @@
 ## Blogs
 I do `Android` and `Kotlin` blogging at <br>
 
-<a href="https://kotlinfan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-Fan-303030?style=for-the-badge&logo=android" alt="Hashnode"></a>
+<a href="https://kotlinfan.hashnode.dev/" target="_blank"><img src="https://github.com/rajumark/rajumark.github.io/blob/8ffac109c1d20e53ea58e781b49c33e11ca732b7/ktfan.png" alt="Hashnode"></a>
+
 
 
 <h3 align="left">Connect with me:</h3>
