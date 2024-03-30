@@ -5,7 +5,7 @@
 
 <img src="https://github.com/rajumark/rajumark/blob/main/1.jpg"/>
 
-- 🧵 My Apps [PlayStore](https://play.google.com/store/apps/dev?id=6544606657560330324)
+ 
 
 - 👨‍💻 My Resume [View PDF](https://rajumark.github.io/)
 
